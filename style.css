@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(169, 231, 206);
+}
+h1{
+    color: rgb(166, 113, 216);
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+li{
+    margin-bottom: 15px;
+}
+#f1{
+    border-radius: 10px;
+    height: 200px;
+}
+table{
+    border: 2px solid rgb(143, 194, 5);
+    color: rgb(20, 238, 56);
+    background-color: rgb(56, 10, 141);
+}
+a:hover{
+    color: red;
+}
